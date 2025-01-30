@@ -4,6 +4,3 @@ description: Playing catchup and documenting my school and home lab projects.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-
-# Custom styles
-include: ["style.css"]
