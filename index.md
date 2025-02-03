@@ -4,9 +4,9 @@ layout: default
 # Hi, I'm Cristian! 
 # Husband, Father, USAF Veteran, and Cybersecurity Enthusiast 
 
-## 👨‍💻 Projects: 
-### * School Projects
-#### * [Basic C Programs](https://github.com/ChungleBoi/projects/tree/main/schoolwork/C-programs)
+## 👨‍💻 Projects 🛠️: 
+- **School Projects**
+  -[Basic C Programs](https://github.com/ChungleBoi/projects/tree/main/schoolwork/C-programs)
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
