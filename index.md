@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-#Hi, I'm Cristian!  
-#Cybersecurity Enthusiast, USAF Vet, Father
+# Hi, I'm Cristian!  
+# Cybersecurity Enthusiast, USAF Vet, Father
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
