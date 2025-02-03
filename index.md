@@ -8,7 +8,7 @@ layout: default
 -  **School Projects**
    -  [Basic C Programs](https://github.com/ChungleBoi/projects/tree/main/schoolwork/C-programs)
 -  **Cybersecurity Projects**
-   -  [Basic C Programs](https://github.com/ChungleBoi/projects/tree/main/schoolwork/C-programs)
+   -  [Python Pass-Lite Program Video](https://www.youtube.com/watch?v=kkLYabxcQZc)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
