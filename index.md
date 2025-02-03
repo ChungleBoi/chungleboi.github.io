@@ -6,7 +6,7 @@ layout: default
 
 ## 👨‍💻 Projects 🛠️: 
 -  ### School Projects
-  -  [Basic C Programs](https://github.com/ChungleBoi/projects/tree/main/schoolwork/C-programs)
+    -  [Basic C Programs](https://github.com/ChungleBoi/projects/tree/main/schoolwork/C-programs)
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
