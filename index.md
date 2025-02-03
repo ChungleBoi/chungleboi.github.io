@@ -6,7 +6,7 @@ layout: default
 
 ## 👨‍💻 Projects 🛠️: 
 -  ### School Projects
-  -  [Basic C Programs](https://github.com/ChungleBoi/projects/tree/main/schoolwork/C-programs)
+   -  [Basic C Programs](https://github.com/ChungleBoi/projects/tree/main/schoolwork/C-programs)
 -  ### Cybersecurity Projects
   -  [Basic C Programs](https://github.com/ChungleBoi/projects/tree/main/schoolwork/C-programs)
 
