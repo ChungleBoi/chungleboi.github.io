@@ -5,7 +5,7 @@ layout: default
 # Husband, Father, USAF Veteran, and Cybersecurity Enthusiast 
 
 ## 👨‍💻 Projects 🛠️: 
-###  -  School Projects
+  -  ### School Projects
   -  [Basic C Programs](https://github.com/ChungleBoi/projects/tree/main/schoolwork/C-programs)
 
 
